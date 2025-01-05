@@ -26,8 +26,6 @@ C. Visual Insights:
 - Lunch program participation statistics.
 - Race/ethnicity distribution grouped by categories.
 
-D. Dynamic Relationships: Trend visualization of how math scores correlate with reading and writing averages.
-
 ## 🛠 Tools and Technologies
 
 <p><b>Microsoft Power BI: </b>To create the interactive and visually rich dashboard.</p>
