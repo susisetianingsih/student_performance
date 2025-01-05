@@ -54,14 +54,4 @@
 
 3. **Scalability:** This dashboard can be adapted to analyze performance data from other schools or districts with minimal adjustments.
 
-## 📊 Data Highlights
-
-1. **Parental Level of Education:** Most students come from families where parents have attended "some college" or have an "associate's degree."
-
-2. **Lunch Program:** A significant portion of students participate in lunch programs, indicating socioeconomic diversity.
-
-3. **Test Preparation:** Students who completed test preparation tend to have better scores, providing an actionable takeaway for improvement programs.
-
-4. **Gender Equality:** Balanced gender representation with slightly more female students.
-
 
