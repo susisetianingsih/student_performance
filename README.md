@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="demo-image.png" alt="Project Logo" width="500">
+  <img src="demo_image.png" alt="Project Logo" width="500">
 </div>
 
 ## 📄 Project Description
